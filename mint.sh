@@ -9,8 +9,8 @@ apt install clementine moc gparted boot-repair ssh vsftpd ranger tilda mpv -y
 apt dist-upgrade -y
 
 ### bcmwl-kernel-source for intel macbook
-#wget http://security.ubuntu.com/ubuntu/pool/restricted/b/bcmwl/bcmwl-kernel-source_6.30.223.271+bdcom-0ubuntu10~22.04.1_amd64.deb
-#apt deb bcmwl-kernel-source_6.30.223.271+bdcom-0ubuntu10~22.04.1_amd64.deb
+#wget http://security.ubuntu.com/ubuntu/pool/restricted/b/broadcom-sta/bcmwl-kernel-source_6.30.223.271+bdcom-23ubuntu1.1_amd64.deb
+#apt deb bcmwl-kernel-source_6.30.223.271+bdcom-23ubuntu1.1_amd64.deb
 #apt install -f -y
 #apt install bcmwl-kernel-source -y; apt install -f -y
 
