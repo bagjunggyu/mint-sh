@@ -41,7 +41,7 @@ touch ~/.moc/config
 sh -c 'echo "Theme=/usr/share/moc/themes/transparent-background" >> ~/.moc/config'
 sudo chmod 755 ~/.moc/config
 
-### Affecting Linux Mint 22.2 Zara Cinnamon's Korean translation
+### Affecting Linux Mint 22.x Cinnamon's Korean translation
 sudo mv *.mo /usr/share/locale/ko/LC_MESSAGES/
 
 ### Delete files & reboot
