@@ -12,6 +12,7 @@ apt dist-upgrade -y
 #wget http://security.ubuntu.com/ubuntu/pool/restricted/b/bcmwl/bcmwl-kernel-source_6.30.223.271+bdcom-0ubuntu10~22.04.1_amd64.deb
 #apt deb bcmwl-kernel-source_6.30.223.271+bdcom-0ubuntu10~22.04.1_amd64.deb
 #apt install -f -y
+#apt install bcmwl-kernel-source -y; apt install -f -y
 
 ### fusuma
 #sudo gpasswd -a $USER input
