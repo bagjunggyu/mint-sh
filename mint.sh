@@ -12,7 +12,7 @@ apt dist-upgrade -y
 #wget http://security.ubuntu.com/ubuntu/pool/restricted/b/broadcom-sta/bcmwl-kernel-source_6.30.223.271+bdcom-23ubuntu1.1_amd64.deb
 #apt deb bcmwl-kernel-source_6.30.223.271+bdcom-23ubuntu1.1_amd64.deb
 #apt install -f -y
-#apt install bcmwl-kernel-source -y; apt install -f -y
+#apt install bcmwl-kernel-source -y;apt install -f -y
 
 ### fusuma
 #sudo gpasswd -a $USER input
@@ -42,7 +42,7 @@ touch ~/.moc/config
 sh -c 'echo "Theme=/usr/share/moc/themes/transparent-background" >> ~/.moc/config'
 sudo chmod 755 ~/.moc/config
 
-### Affecting Linux Mint 22.x Cinnamon's Korean translation
+### Affecting Linux Mint 22.x Cinnamon's Korean translation patch
 sudo mv *.mo /usr/share/locale/ko/LC_MESSAGES/
 
 ### Delete files & reboot
