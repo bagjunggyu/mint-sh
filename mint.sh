@@ -38,7 +38,6 @@ sudo service vsftpd start
 
 ### moc setting
 mkdir -p ~/.moc
-touch ~/.moc/config
 sh -c 'echo "Theme=/usr/share/moc/themes/transparent-background" >> ~/.moc/config'
 sudo chmod 755 ~/.moc/config
 
