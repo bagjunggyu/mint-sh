@@ -1,4 +1,3 @@
-@@ -1,2 +1,26 @@
 ### Linux Mint 22.x 설치 후 개인 설정 자동화 작업 ###
 ##### 맥북으로 설치하는 경우에는 bcmwl-kernel 소스 설치 및 fusuma 설치(#제거)
 ##### 선호하는 clementine, moc, gparted, boot-repair, ranger, tilda, mpv를 설치하고
